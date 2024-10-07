@@ -34,24 +34,23 @@ To leverage my skills and passion for cybersecurity in a challenging role where 
 
 ### Penetration Testing
 <div>
-    <img src="https://img.shields.io/badge/-Nmap-0078D4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-0078D4?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-0078D4?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-0078D4?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-FF6F00?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-4A4A4A?&style=for-the-badge&logo=Kali-Linux&logoColor=fff" />
+    <img src="https://img.shields.io/badge/-Metasploit-34A853?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-5A009D?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-008080?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-eJPT-FF0000?&style=for-the-badge&logo=INE&logoColor=white" />
-<img src="https://img.shields.io/badge/-eWPT-FF0000?&style=for-the-badge&logo=INE&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-eJPT-1E40AF?&style=for-the-badge&logo=INE&logoColor=white" />
+<img src="https://img.shields.io/badge/-eWPT-FFD700?&style=for-the-badge&logo=INE&logoColor=white" />
 </div>
 
 ## Projects
