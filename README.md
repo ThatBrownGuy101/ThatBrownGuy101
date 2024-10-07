@@ -54,7 +54,7 @@ To leverage my skills and passion for cybersecurity in a challenging role where 
 </div>
 
 ## Projects
-- Cyber Blog Cloud Application
+- <a href="https://github.com/ThatBrownGuy101/Cyber-Blog-Cloud-Application/blob/main/README.md">Cyber Blog Cloud Application</a>
 - Rekall Corp. Penetration Test (CTF)
 - Splunk Defense
 
