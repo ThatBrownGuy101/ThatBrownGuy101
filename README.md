@@ -11,8 +11,8 @@ To leverage my skills and passion for cybersecurity in a challenging role where 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ThatBrownGuy101/Cyber-Blog-Cloud-Application/blob/main/README.md">Cyber Blog Cloud Application</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">lol</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
