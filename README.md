@@ -46,7 +46,6 @@ To leverage my skills and passion for cybersecurity in a challenging role where 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-eJPT-1E40AF?&style=for-the-badge&logo=INE&logoColor=white" />
@@ -55,8 +54,8 @@ To leverage my skills and passion for cybersecurity in a challenging role where 
 
 ## Projects
 - <a href="https://github.com/ThatBrownGuy101/Cyber-Blog-Cloud-Application/blob/main/README.md">Cyber Blog Cloud Application</a>
-- Rekall Corp. Penetration Test (CTF)
-- Splunk Defense
+- <a href="https://github.com/ThatBrownGuy101/Rekall-Corp.-Penetration-Test-CTF-">Rekall Corp. Penetration Test (CTF)</a>
+- <a href="">Splunk Defense</a>
 
 
 
