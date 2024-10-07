@@ -55,7 +55,7 @@ To leverage my skills and passion for cybersecurity in a challenging role where 
 ## Projects
 - <a href="https://github.com/ThatBrownGuy101/Cyber-Blog-Cloud-Application/blob/main/README.md">Cyber Blog Cloud Application</a>
 - <a href="https://github.com/ThatBrownGuy101/Rekall-Corp.-Penetration-Test-CTF-">Rekall Corp. Penetration Test (CTF)</a>
-- <a href="">Splunk Defense</a>
+- <a href="https://github.com/ThatBrownGuy101/Splunk-Defense/blob/main/README.md">Splunk Defense</a>
 
 
 
