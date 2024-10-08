@@ -11,12 +11,9 @@ To leverage my skills and passion for cybersecurity in a challenging role where 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/ThatBrownGuy101/Cyber-Blog-Cloud-Application/blob/main/README.md">Cyber Blog Cloud Application</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">lol</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cloud Deployment, Docker, Web Customization, SSL/TLS Management, WAF, Azure Security Center, Linux Administration | <a href="https://github.com/ThatBrownGuy101/Cyber-Blog-Cloud-Application/blob/main/README.md">Cyber Blog Cloud Application</a>|
+| Web App Security, Linux Security, Windows Security, Network Scanning, Vulnerability Scanning, Exploitation Tools, Password Cracking, Privilege Escalation, Lateral Movement | <a href="https://github.com/ThatBrownGuy101/Rekall-Corp.-Penetration-Test-CTF-">Rekall Corp. Penetration Test (CTF)</a>|
+| Log Analysis, Splunk Setup, Security Monitoring, Threat Detection, Data Visualization, Automation, Tool Enhancement, Attack Simulation | <a href="https://github.com/ThatBrownGuy101/Splunk-Defense/blob/main/README.md">Splunk Defense</a> |
 
 ## Tools
 
