@@ -1,13 +1,12 @@
 # Hi, My names is Muhammad Hussain
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Im someone who has recently begun my pivot into the field of Cybersecurity. I'm a cybersecurity professional passionate about protecting digital environments and solving complex security challenges. My expertise lies in identifying vulnerabilities, enhancing and analyzing system defenses, and staying ahead of emerging threats. I’m dedicated to continuous learning and bettering myself and my skills, while also applying best practices across various domains to help build secure and resilient infrastructures. 
+I'm someone who has recently begun my pivot into the field of Cybersecurity. I'm a cybersecurity professional passionate about protecting digital environments and solving complex security challenges. My expertise lies in identifying vulnerabilities, enhancing and analyzing system defenses, and staying ahead of emerging threats. I’m dedicated to continuous learning and bettering myself and my skills, while also applying best practices across various domains to help build secure and resilient infrastructures. 
 
 ## Objective
 To leverage my skills and passion for cybersecurity in a challenging role where I can contribute to the protection of digital infrastructures, continuously enhance security strategies, and stay at the forefront of evolving cyber threats. I aim to work collaboratively with a dynamic team to identify vulnerabilities, mitigate risks, and ensure the integrity and security of critical systems.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
